@@ -22,7 +22,7 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**: mazin abdelrahman 906345272
+* **Your name and PID**: mazin abdelrahman mazintarawa
 
 * **Your partner's name and PID:** Ali Manzoor alimanzoor
 
