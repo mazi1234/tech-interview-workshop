@@ -26,6 +26,6 @@ Below are the instructions for this assignment. Your repository should automatic
 
 * **Your partner's name and PID:** Ali Manzoor PID: alimanzoor
 
-* **Link to selected coding challenge:** 
+* **Link to selected coding challenge:** https://leetcode.com/problems/odd-even-linked-list/solutions/4761304/simple-beginner-friendly-dry-run-two-approach-full-explanation-time-o-n-space-o-1-gits/?envType=study-plan-v2&envId=leetcode-75
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** Great demonstration of linked list knowledge. Able to communicate and explain his decision in real-time. Needs to improve perfomance of code.
