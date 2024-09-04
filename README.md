@@ -22,9 +22,9 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**: mazin abdelrahman mazintarawa
+* **Your name and PID**: mazin abdelrahman PID: mazintarawa
 
-* **Your partner's name and PID:** Ali Manzoor alimanzoor
+* **Your partner's name and PID:** Ali Manzoor PID: alimanzoor
 
 * **Link to selected coding challenge:** 
 
