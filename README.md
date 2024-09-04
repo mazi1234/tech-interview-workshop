@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: mazin abdelrahman 906345272
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Ali Manzoor alimanzoor
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** 
 
 * **Summary of partner's interview feedback:**
